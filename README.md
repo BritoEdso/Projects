@@ -1,6 +1,5 @@
 # Himalayan Salt Games present
-
-**Secret Hitler Online**
+Secret Hitler Online
 
 Meet the Programmers
 
