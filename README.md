@@ -3,6 +3,7 @@ Himalayan Salt Games present
 Secret Hitler Online
 <p>
 
+<p>
 Meet the Programmers
 
 -Tu Nguyen
@@ -10,3 +11,4 @@ Meet the Programmers
 -Jason Lopes
 
 -Sully Jimenez
+<p>
