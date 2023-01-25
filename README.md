@@ -1,7 +1,7 @@
-<p align='center'>
+<h1 align='center'>
 Himalayan Salt Games present
 Secret Hitler Online
-<p>
+<h1>
 
 <p>
 Meet the Programmers
