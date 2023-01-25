@@ -1,4 +1,6 @@
-# Himalayan Salt Games present, **Secret Hitler Online**
+# Himalayan Salt Games present
+
+**Secret Hitler Online**
 
 Meet the Programmers
 
