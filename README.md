@@ -1,6 +1,6 @@
 <h1 align='center'>
 Himalayan Salt Games present
-Secret Hitler Online
+Secret Dude Online
 <h1>
 
 <p>
